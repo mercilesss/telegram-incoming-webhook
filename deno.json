@@ -1,6 +1,5 @@
 {
   "imports": {
-    "ky": "https://esm.sh/ky@1.1.0",
-    "$oak/": "jsr:@oak/oak"
+    "ky": "https://esm.sh/ky@1.1.0"
   }
 }

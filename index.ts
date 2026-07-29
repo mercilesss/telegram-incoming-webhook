@@ -1,5 +1,5 @@
 import ky from "ky";
-import { Application, helpers, Router, Status } from "$oak/mod.ts";
+import { Application, Router, Status, helpers } from "jsr:@oak/oak";
 
 import { formatJSON } from "./utils.ts";
 

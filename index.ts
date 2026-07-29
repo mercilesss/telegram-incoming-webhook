@@ -85,6 +85,6 @@ app.use(async (ctx, next) => {
 app.use(router.routes());
 app.use(router.allowedMethods());
 
-console.log(`Server running on port ${PORT}`);
+console.log("Server started");
 
-await app.listen({ port: Number(PORT) });
+Deno.serve(app.fetch);

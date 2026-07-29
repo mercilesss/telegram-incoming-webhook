@@ -1,5 +1,6 @@
 {
   "imports": {
-    "ky": "https://esm.sh/ky@1.1.0"
+    "hono": "jsr:@hono/hono",
+    "ky": "https://esm.sh/ky@1.7.5"
   }
 }

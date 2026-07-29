@@ -177,7 +177,7 @@
     "https://deno.land/x/oak@v12.6.0/util.ts": "0a3fdffb114859c2de84e1783efa3a544af4d2af8c6f08e0d25655de9d3e69bb",
     "https://deno.land/x/path_to_regexp@v6.2.0/index.ts": "e94c04a44bbecac99ff2db2d831afe98b423e627b775cb57fc7935f848c64c51",
     "https://deno.land/x/path_to_regexp@v6.2.1/index.ts": "894060567837bae8fc9c5cbd4d0a05e9024672083d5883b525c031eea940e556",
-    "https://esm.sh/ky@1.1.0": "361041af5f1f0c8972f024f21ac13468d9c339c29fc71b4cde176d2832dc2bf3",
+    "https://esm.sh/ky@1.1.0": "3119e1065a98426df9279b9cd38d33ff09e98f35a8e3f77520b4d8a7b6ebca37",
     "https://esm.sh/v133/ky@1.1.0/denonext/ky.mjs": "f5d5eb22d8a075b6d4c40e8d0a2a72b6d0c50d04bac17171a3842ccb9dfeab52",
     "https://raw.githubusercontent.com/jshttp/mime-db/v1.52.0/db.json": "85c8e1ba609079947c8df83c092900ab0226e1d7b60e5e7105fb7dd701833263"
   }

@@ -66,6 +66,4 @@ app.post("/:botToken/:chatId", async (c) => {
   return c.json(await response.json());
 });
 
-console.log("Server started");
-
-Deno.serve(app.fetch);
+export default app;

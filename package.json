@@ -1,0 +1,14 @@
+
+{
+  "name": "telegram-incoming-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.0.0",
+    "ky": "^1.7.5"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
